@@ -1,0 +1,976 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cf.gatewaypeople.com" />
+<!--[if IE 9]>
+<link rel="prefetch" href="//cf.gatewaypeople.com" />
+<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="http://cf.gatewaypeople.com/prod/s3fs-public/GC_Favicon_FINAL.ico?Ih3p6gL5E6uns.r5d.1OGBez3IZnZtfJ" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://gatewaypeople.com/campus/dallas/events" />
+<link rel="shortlink" href="http://gatewaypeople.com/campus/dallas/events" />
+<meta property="og:site_name" content="Milford Baptist Church" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Events" />
+  <title>Events | Milford Baptist Church</title>
+  <style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/modules/system/system.base.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/system/system.menus.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/system/system.messages.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/system/system.theme.css?p7rj3q");
+</style>
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.datepicker.min.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_popup/themes/jquery.timeentry.css?p7rj3q");
+</style>
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/media_theplatform_mpx/css/media_theplatform_mpx.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_api/date.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/field/theme/field.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/mollom/mollom.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/node/node.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/search/search.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/user/user.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/views/css/views.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/gwp/modules/contrib/ckeditor/css/ckeditor.css?p7rj3q");
+</style>
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/ctools/css/ctools.css?p7rj3q");
+@import url("http://gatewaypeople.com/sites/all/modules/custom/gwp_simple_menu/css/gwp_simple_menu.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/libraries/wvega-timepicker/jquery.timepicker.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/libraries/mediaelement/build/mediaelementplayer.min.css?p7rj3q");
+</style>
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/gwp/themes/gwp_horizon/styles/css/app.css?p7rj3q");
+</style>
+<link type="text/css" rel="stylesheet" href="//cloud.typography.com/715654/749506/css/fonts.css" media="all" />
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/gwp/themes/gwp_horizon/js/lib/fancyBox/jquery.fancybox.css?p7rj3q");
+</style>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/misc/drupal.js?p7rj3q"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_popup/jquery.timeentry.pack.js?v=1.4.7"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/modules/contrib/better_exposed_filters/better_exposed_filters.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/libraries/wvega-timepicker/jquery.timepicker.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_popup/date_popup.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/gwp/libraries/momentjs/moment.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/libraries/momenttimezonejs/moment-timezone-with-data.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/gwp/libraries/final_countdown/jquery.countdown.min.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/gwp/themes/gwp_horizon/js/lib/fancyBox/jquery.fancybox.pack.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/gwp/themes/gwp_horizon/js/combined.js?p7rj3q"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gwp_horizon","theme_token":"06SIBHmtLi3ibMII4_DrlUCBs1myET7qehAPM3sh8_g","js":{"0":1,"http:\/\/gatewaypeople.com\/sites\/all\/modules\/custom\/gwp_simple_menu\/js\/gwp_simple_menu.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"2":1,"sites\/all\/modules\/contrib\/date\/date_popup\/jquery.timeentry.pack.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/contrib\/better_exposed_filters\/better_exposed_filters.js":1,"sites\/all\/libraries\/wvega-timepicker\/jquery.timepicker.js":1,"sites\/all\/modules\/contrib\/date\/date_popup\/date_popup.js":1,"sites\/gwp\/libraries\/momentjs\/moment.js":1,"sites\/all\/libraries\/momenttimezonejs\/moment-timezone-with-data.js":1,"sites\/gwp\/libraries\/final_countdown\/jquery.countdown.min.js":1,"sites\/gwp\/themes\/gwp_horizon\/js\/lib\/fancyBox\/jquery.fancybox.pack.js":1,"sites\/gwp\/themes\/gwp_horizon\/js\/combined.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/jquery.timeentry.css":1,"sites\/all\/modules\/contrib\/media_theplatform_mpx\/css\/media_theplatform_mpx.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/gwp\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"http:\/\/gatewaypeople.com\/sites\/all\/modules\/custom\/gwp_simple_menu\/css\/gwp_simple_menu.css":1,"sites\/all\/libraries\/wvega-timepicker\/jquery.timepicker.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"sites\/gwp\/themes\/gwp_horizon\/styles\/css\/app.css":1,"\/\/cloud.typography.com\/715654\/749506\/css\/fonts.css":1,"sites\/gwp\/themes\/gwp_horizon\/js\/lib\/fancyBox\/jquery.fancybox.css":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"occurrences":{"displays":{"event_listing_block":{"filters":[]}}},"gwp_calendar":{"displays":{"campus_calendar_page":{"filters":{"field_occurrence_date_value2":{"required":false}}}}},"gwp_campus_selector":{"displays":{"block_campus_selector":{"filters":[]}}}}},"datePopup":{"edit-field-occurrence-date-value2-value-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":0,"dateFormat":"mm\/dd\/yy","yearRange":"+0:+1","fromTo":false,"defaultDate":"0y"}}},"urlIsAjaxTrusted":{"\/campus\/dallas\/events":true},"currentPath":"campus\/dallas\/events","currentPathIsAdmin":false,"ogContext":{"groupType":"node","gid":"562326"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-campus page-campus-dallas page-campus-dallas-events og-context og-context-node og-context-node-562326" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- the placeholder element for top of page -->
+<div id="top"></div>
+
+<header class="header header-v1" role="banner">
+
+  <div class="wrapper">
+    <div id="site-logo">
+      <a href="/" title="Milford Baptist Church" rel="home" class="site-nav-logo"><img src="http://cf.gatewaypeople.com/prod/s3fs-public/gateway_logo_new.svg?null" alt="Home" /></a>
+    </div>
+  </div>
+
+  <div class="header-top">
+    <div class="wrapper">
+              <div class="secondary-navigations">
+                      <div class="secondary-nav">
+                  <div class="region region-secondary-nav">
+    
+<div id="block-menu-menu-secondary-menu" class="block block-menu">
+
+        <div class="wrapper">
+
+      <h2>Secondary Menu</h2>
+          <div>
+    <ul class="menu"><li class="first leaf"><a href="/watch/live" class="watch-live">Watch Live</a></li>
+<li class="leaf"><a href="/watch/message-archives/individual?og_group_ref_target_id_entityreference_filter=1" class="watch-archive">Messages</a></li>
+<li class="leaf"><a href="/ministries/life/tithes-egiving">Give</a></li>
+<li class="leaf"><a href="/ministries/prayer">Pray</a></li>
+<li class="leaf"><a href="http://gatewaydevotions.com">Devotions</a></li>
+<li class="leaf"><a href="http://store.gatewaypeople.com">Store</a></li>
+<li class="last expanded"><a href="/">Social</a><ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/gatewaypeople" title="">Facebook</a></li>
+<li class="leaf"><a href="https://instagram.com/gatewaypeople">Instagram</a></li>
+<li class="last leaf"><a href="http://twitter.com/gatewaypeople" title="">Twitter</a></li>
+</ul></li>
+</ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+
+<div id="block-search-form" class="block block-search">
+
+        <div class="wrapper">
+
+          <div>
+    <form action="/campus/dallas/events" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-wXVOs6A5JIu5a7QEjHjyQEbJn-MDPS2rifBHiQ6BzbQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+                                  <div id="campus-selector">
+                      <div class="campus-picker">
+                          <span class="default">Select a Campus</span>
+                          <div class="view view-gwp-campus-selector view-id-gwp_campus_selector view-display-id-block_campus_selector campus-selector view-dom-id-fc6df1565ed8cdc45466a1a2c64c7643">
+        
+  
+  
+      <div class="view-content">
+        <ul class="campus-selector">
+    <li class="first odd">
+      <a href='/?campus=22' data-campus-id="22" data-campus-long-title="Southlake" data-campus-abbreviation="SLK" target="_blank">Southlake</a>
+    </li>
+      <li class="even">
+      <a href='/?campus=562326' data-campus-id="562326" data-campus-long-title="Dallas" data-campus-abbreviation="DAL" target="_blank">Dallas</a>
+    </li>
+      <li class="odd">
+      <a href='/?campus=43' data-campus-id="43" data-campus-long-title="Frisco" data-campus-abbreviation="FRS" target="_blank">Frisco</a>
+    </li>
+      <li class="even">
+      <a href='/?campus=44' data-campus-id="44" data-campus-long-title="Grand Prairie" data-campus-abbreviation="GRP" target="_blank">Grand Prairie</a>
+    </li>
+      <li class="odd">
+      <a href='/?campus=45' data-campus-id="45" data-campus-long-title="North Fort Worth" data-campus-abbreviation="NFW" target="_blank">North Fort Worth</a>
+    </li>
+      <li class="last even">
+      <a href='/?campus=29' data-campus-id="29" data-campus-long-title="NRH" data-campus-abbreviation="NRH" target="_blank">NRH</a>
+    </li>
+    </ul>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>                      </div>
+                  </div>
+                            </div>
+          
+                  </div><!-- /.secondary-navigations -->
+          </div><!-- /.wrapper -->
+  </div><!-- /.header-top -->
+
+  <div class="header-inner">
+    <div class="wrapper">
+      <div class="site-branding">
+                  <div class="nav-bg">
+            <div class="nav-wrapper">
+              <div class="nav-inner">
+
+                
+                                  <div class="main-nav">  <div class="region region-main-nav">
+    
+<div id="block-system-main-menu" class="block block-system block-menu">
+
+        <div class="wrapper">
+
+          <div>
+    <ul class="menu"><li class="first leaf"><a href="/ministries/life/about-gateway-church" title="">About Us</a></li>
+<li class="leaf"><a href="/ministries/life/get-connected">Get Connected</a></li>
+<li class="leaf"><a href="/ministries">Ministries</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="/" class="super-menu-trigger mobile-menu-disable">Conferences</a></li>
+<li class="last leaf"><a href="/watch/live" class="watch-button-placeholder mobile-menu-disable">ON AIR</a></li>
+</ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+</div>
+                
+                
+<div id="dl-menu" class="dl-menuwrapper">
+  <span class="dl-trigger hamburger icon">
+    <a href="#"></a>
+  </span>
+
+  <ul class="dl-menu">
+        <li id="mobile_campus" class="dl-menu-border">
+      <a href="#">Campuses</a>
+      
+        
+  
+  
+      
+        <ul class="campus-selector">
+    <li class="first odd">
+      <a href='/?campus=22' data-campus-id="22" data-campus-long-title="Southlake" data-campus-abbreviation="SLK" target="_blank">Southlake</a>
+    </li>
+      <li class="even">
+      <a href='/?campus=562326' data-campus-id="562326" data-campus-long-title="Dallas" data-campus-abbreviation="DAL" target="_blank">Dallas</a>
+    </li>
+      <li class="odd">
+      <a href='/?campus=43' data-campus-id="43" data-campus-long-title="Frisco" data-campus-abbreviation="FRS" target="_blank">Frisco</a>
+    </li>
+      <li class="even">
+      <a href='/?campus=44' data-campus-id="44" data-campus-long-title="Grand Prairie" data-campus-abbreviation="GRP" target="_blank">Grand Prairie</a>
+    </li>
+      <li class="odd">
+      <a href='/?campus=45' data-campus-id="45" data-campus-long-title="North Fort Worth" data-campus-abbreviation="NFW" target="_blank">North Fort Worth</a>
+    </li>
+      <li class="last even">
+      <a href='/?campus=29' data-campus-id="29" data-campus-long-title="NRH" data-campus-abbreviation="NRH" target="_blank">NRH</a>
+    </li>
+    </ul>
+    
+  
+  
+  
+  
+  
+  
+    </li>
+    <li class="first leaf"><a href="/ministries/life/about-gateway-church" title="">About Us</a></li>
+<li class="leaf"><a href="/ministries/life/get-connected">Get Connected</a></li>
+<li class="leaf"><a href="/ministries">Ministries</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="/" class="super-menu-trigger mobile-menu-disable">Conferences</a></li>
+<li class="last leaf"><a href="/watch/live" class="watch-button-placeholder mobile-menu-disable">ON AIR</a></li>
+    <li id="mobile_conferences" class="dl-menu-border">
+      <a href="#">Conferences</a>
+      <ul class="menu">
+        <li class="first leaf"><a href="http://first.gatewaypeople.com" target="_blank">First Conference</a></li>
+<li class="leaf"><a href="http://xomarriageconference.com/" target="_blank">XO Marriage Conference</a></li>
+<li class="leaf"><a href="http://menssummit.com" id="site-affiliate-links-mens-summit" class="site-affiliate-links-item">Men&#039;s Summit</a></li>
+<li class="leaf"><a href="http://pinkimpact.com" id="site-affiliate-links-pink-impact" class="site-affiliate-links-item">Pink Impact</a></li>
+<li class="leaf"><a href="http://gatewaystudentconference.com" id="site-affiliate-links-gateway-student-conference" class="site-affiliate-links-item">Gateway Student Conference</a></li>
+<li class="last leaf"><a href="http://gatewayconference.com" id="site-affiliate-links-gateway-conference" class="site-affiliate-links-item" target="_blank">Gateway Conference</a></li>
+      </ul>
+    </li>
+    <li class="first leaf"><a href="/watch/live" class="watch-live">Watch Live</a></li>
+<li class="leaf"><a href="/watch/message-archives/individual?og_group_ref_target_id_entityreference_filter=1" class="watch-archive">Messages</a></li>
+<li class="leaf"><a href="/ministries/life/tithes-egiving">Give</a></li>
+<li class="leaf"><a href="/ministries/prayer">Pray</a></li>
+<li class="leaf"><a href="http://gatewaydevotions.com">Devotions</a></li>
+<li class="leaf"><a href="http://store.gatewaypeople.com">Store</a></li>
+<li class="last expanded"><a href="/">Social</a><ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/gatewaypeople" title="">Facebook</a></li>
+<li class="leaf"><a href="https://instagram.com/gatewaypeople">Instagram</a></li>
+<li class="last leaf"><a href="http://twitter.com/gatewaypeople" title="">Twitter</a></li>
+</ul></li>
+
+  </ul>
+
+</div>
+
+<script src="http://cf.gatewaypeople.com/prod/s3fs-public/menuCall.js?null"></script>              </div> <!-- /.nav-inner -->
+            </div>  <!-- /.nav-wrapper -->
+          </div> <!-- /.nav-bg -->
+              </div><!-- /.site-branding -->
+          </div>
+  </div>  <!-- /.header-inner -->
+
+      <div class="super-menu">
+      <div class="wrapper">
+          <div class="region region-super-menu">
+    
+<div id="block-menu-menu-super-menu-conferences" class="block block-menu">
+
+        <div class="wrapper">
+
+      <h2>Conferences</h2>
+          <div>
+    <ul class="menu gwp-simple-menu gwp-simple-menu--og-menu gwp-simple-menu--og-menu--department"><li class="first leaf"><a href="http://first.gatewaypeople.com" target="_blank">First Conference</a></li>
+<li class="leaf"><a href="http://xomarriageconference.com/" target="_blank">XO Marriage Conference</a></li>
+<li class="leaf"><a href="http://menssummit.com" id="site-affiliate-links-mens-summit" class="site-affiliate-links-item">Men&#039;s Summit</a></li>
+<li class="leaf"><a href="http://pinkimpact.com" id="site-affiliate-links-pink-impact" class="site-affiliate-links-item">Pink Impact</a></li>
+<li class="leaf"><a href="http://gatewaystudentconference.com" id="site-affiliate-links-gateway-student-conference" class="site-affiliate-links-item">Gateway Student Conference</a></li>
+<li class="last leaf"><a href="http://gatewayconference.com" id="site-affiliate-links-gateway-conference" class="site-affiliate-links-item" target="_blank">Gateway Conference</a></li>
+</ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+      </div>
+    </div>
+  
+</header>
+<div class="generic-header">
+  <div class="wrapper">
+    
+          <h1>
+        Events              </h1>
+              <h2>Dallas</h2>
+      </div><!-- /.wrapper -->
+</div>
+
+
+
+
+
+
+<section id="content">
+
+  
+      <div class="content-wrapper clearfix">
+
+    
+      <div class="wrapper">
+        <a id="main-content"></a>
+        <div class="content-inner clearfix" role="main">
+
+                      <aside class="aside-first">
+                <div class="region region-aside-first">
+    
+<div id="block-og-menu-og-single-menu-block" class="block block-og-menu">
+
+        <div class="wrapper">
+
+          <div>
+    <ul class="menu gwp-simple-menu gwp-simple-menu--og-menu gwp-simple-menu--og-menu--campus"><li class="first leaf"><a href="/campus/dallas">About Us</a></li>
+<li class="leaf"><a href="/campus/dallas/staff">Our Staff</a></li>
+<li class="leaf"><a href="/campus/dallas/get-involved-dallas-campus">Get Involved</a></li>
+<li class="leaf active-trail"><a href="/campus/dallas/events" class="active-trail active">Events</a></li>
+<li class="leaf"><a href="/campus/dallas/classes">Classes</a></li>
+<li class="leaf"><a href="/ministries/groups/groups?group_campus=562326">Groups</a></li>
+<li class="last leaf"><a href="/campus/dallas/faq-dallas-campus">FAQ</a></li>
+</ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+
+<div id="block-gwp-sites-sidebar-campus-times" class="block block-gwp-sites">
+
+        <div class="wrapper">
+
+          <div>
+    
+    <ul class="menu gwp-simple-menu">
+      <li class="leaf expanded"><a href="#">Café Hours</a>
+        <ul class="menu gwp-simple-menu">
+          <li>
+            <p>Saturday:<br/>4:45 pm–7:15 pm</p>
+            <p>Sunday:<br/>9:00 am–12:30 pm</p>
+            <p>Monday:<br/>Closed</p>
+            <p>Tuesday:<br/>Closed</p>
+            <p>Wednesday:<br/>6:00 pm-7:30 pm</p>
+            <p>Thursday:<br/>Closed</p>
+            <p>Friday:<br/>Closed</p>
+          </li>
+        </ul>
+      </li>
+      <li class="leaf expanded"><a href="#">Bookstore Hours</a>
+        <ul class="menu gwp-simple-menu">
+          <li>
+            <p>Saturday:<br/>4:45 pm–7:30 pm</p>
+            <p>Sunday:<br/>8:15 am–12:30 pm</p>
+            <p>Monday:<br/>Closed</p>
+            <p>Tuesday:<br/>Closed</p>
+            <p>Wednesday:<br/>Closed</p>
+            <p>Thursday:<br/>Closed</p>
+            <p>Friday:<br/>Closed</p>
+          </li>
+        </ul>
+      </li>
+    </ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+            </aside>
+          
+                      <div class="content with-aside-first">
+                <div class="region region-content">
+    
+<div id="block-system-main" class="block block-system">
+
+        <div class="wrapper">
+
+          <div>
+    <div class="view view-gwp-calendar view-id-gwp_calendar view-display-id-campus_calendar_page view-dom-id-17cacd4e78a38d7b49a43b22117a489d">
+        
+      <div class="view-filters">
+      <form action="/campus/dallas/events" method="get" id="views-exposed-form-gwp-calendar-campus-calendar-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-occurrence-date-value2-wrapper" class="views-exposed-widget views-widget-filter-field_occurrence_date_value2">
+                  <label for="edit-field-occurrence-date-value2">
+            Date          </label>
+                        <div class="views-widget">
+          <div id="edit-field-occurrence-date-value2-value-wrapper"><div id="edit-field-occurrence-date-value2-value-inside-wrapper"><div  class="container-inline-date"><div class="form-item form-type-date-popup form-item-field-occurrence-date-value2-value">
+  <div id="edit-field-occurrence-date-value2-value"  class="date-padding"><div class="form-item form-type-textfield form-item-field-occurrence-date-value2-value-date">
+  <label class="element-invisible" for="edit-field-occurrence-date-value2-value-datepicker-popup-0">Date </label>
+ <input type="text" id="edit-field-occurrence-date-value2-value-datepicker-popup-0" name="field_occurrence_date_value2[value][date]" value="" size="20" maxlength="30" class="form-text" />
+<div class="description"> E.g., 06/02/2018</div>
+</div>
+</div>
+</div>
+</div></div></div>        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-gwp-calendar" name="" value="Apply" class="form-submit" />    </div>
+          <div class="views-exposed-widget views-reset-button">
+        <input type="submit" id="edit-reset" name="op" value="Reset" class="form-submit" />      </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+        <div class="view-content">
+      <div class="calendar-list">
+  <div>
+    <div class="label-text-day">
+      <span class="mobile-hide">
+        Wednesday      </span>
+      <span class="mobile-only">
+        Wednesday, May 02      </span>
+    </div>
+    <div class="label-num-day mobile-hide">
+      02      <span class="label-month">
+        May      </span>
+    </div>
+  </div>
+  <ul class="times">
+    <li class="first last even">
+      
+  <a href="/ministries/students/events/gateway-students">
+      <span class="time">7:00 pm</span>
+  
+      <span class="time-event">Gateway Students</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Frisco Campus" title="Frisco Campus">
+            FRS          </li>
+                                          <li class="campus-abbr" alt="Grand Prairie Campus" title="Grand Prairie Campus">
+            GRP          </li>
+                                          <li class="campus-abbr" alt="North Fort Worth Campus" title="North Fort Worth Campus">
+            NFW          </li>
+                                          <li class="campus-abbr" alt="NRH Campus" title="NRH Campus">
+            NRH          </li>
+                                          <li class="campus-abbr" alt="The King’s University" title="The King’s University">
+            TKU          </li>
+                                          <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                  </ul>
+    </a>
+    </li>
+    </ul>
+  </div>
+<div class="calendar-list">
+  <div>
+    <div class="label-text-day">
+      <span class="mobile-hide">
+        Thursday      </span>
+      <span class="mobile-only">
+        Thursday, May 03      </span>
+    </div>
+    <div class="label-num-day mobile-hide">
+      03      <span class="label-month">
+        May      </span>
+    </div>
+  </div>
+  <ul class="times">
+    <li class="first odd">
+      
+  <a href="/ministries/prayer/events/pray-first-1">
+      <span class="time">7:00 am</span>
+  
+      <span class="time-event">Pray First</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="even">
+      
+  <a href="/ministries/performing-arts/events/auditions-for-mary-poppins">
+      <span class="time">4:30 pm</span>
+  
+      <span class="time-event">Summer Musical Auditions</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="last odd">
+      
+  <a href="/ministries/global/events/national-day-of-prayer">
+      <span class="time">6:00 pm</span>
+  
+      <span class="time-event">National Day of Prayer</span>
+  
+      <ul class="time-location">
+                        </ul>
+    </a>
+    </li>
+    </ul>
+  </div>
+<div class="calendar-list">
+  <div>
+    <div class="label-text-day">
+      <span class="mobile-hide">
+        Friday      </span>
+      <span class="mobile-only">
+        Friday, May 04      </span>
+    </div>
+    <div class="label-num-day mobile-hide">
+      04      <span class="label-month">
+        May      </span>
+    </div>
+  </div>
+  <ul class="times">
+    <li class="first even">
+      
+  <a href="/ministries/performing-arts/events/auditions-for-mary-poppins">
+      <span class="time">4:30 pm</span>
+  
+      <span class="time-event">Summer Musical Auditions</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="odd">
+      
+  <a href="/ministries/jewish-ministries/events/messianic-service-preservice-jewish-dance-class">
+      <span class="time">6:00 pm</span>
+  
+      <span class="time-event">Messianic Service | Preservice Jewish Dance Class</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="even">
+      
+  <a href="/ministries/jewish-ministries/events/messianic-service-preservice-prayer">
+      <span class="time">6:15 pm</span>
+  
+      <span class="time-event">Messianic Service | Preservice Prayer</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="odd">
+      
+  <a href="/ministries/jewish-ministries/events/messianic-service">
+      <span class="time">7:00 pm</span>
+  
+      <span class="time-event">Messianic Service</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="last even">
+      
+  <a href="/ministries/jewish-ministries/events/gateway-shabbat-service">
+      <span class="time">7:00 pm</span>
+  
+      <span class="time-event">Messianic Service | May</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                  </ul>
+    </a>
+    </li>
+    </ul>
+  </div>
+<div class="calendar-list">
+  <div>
+    <div class="label-text-day">
+      <span class="mobile-hide">
+        Sunday      </span>
+      <span class="mobile-only">
+        Sunday, May 06      </span>
+    </div>
+    <div class="label-num-day mobile-hide">
+      06      <span class="label-month">
+        May      </span>
+    </div>
+  </div>
+  <ul class="times">
+    <li class="first odd">
+      
+  <a href="/ministries/groups/events/gateway-groups-leader-interest-meetings">
+      <span class="time">9:00 am</span>
+  
+      <span class="time-event">Gateway Groups | Leader Interest Meetings</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="even">
+      
+  <a href="/ministries/membership/events/catch-the-vision-membership-class-dallas-campus">
+      <span class="time">10:30 am</span>
+  
+      <span class="time-event">Catch the Vision | Dallas Campus</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="odd">
+      
+  <a href="/ministries/kids/events/baby-dedications">
+      <span class="time">12:30 pm</span>
+  
+      <span class="time-event">Baby Dedications </span>
+  
+      <ul class="time-location">
+                                                <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                  </ul>
+    </a>
+    </li>
+      <li class="last even">
+      
+  <a href="/ministries/performing-arts/events/auditions-for-mary-poppins">
+      <span class="time">2:30 pm</span>
+  
+      <span class="time-event">Summer Musical Auditions</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                  </ul>
+    </a>
+    </li>
+    </ul>
+  </div>
+<div class="calendar-list">
+  <div>
+    <div class="label-text-day">
+      <span class="mobile-hide">
+        Tuesday      </span>
+      <span class="mobile-only">
+        Tuesday, May 08      </span>
+    </div>
+    <div class="label-num-day mobile-hide">
+      08      <span class="label-month">
+        May      </span>
+    </div>
+  </div>
+  <ul class="times">
+    <li class="first last odd">
+      
+  <a href="/ministries/stewardship/events/how-to-create-a-powerful-linkedin-profile">
+      <span class="time">7:00 pm</span>
+  
+      <span class="time-event">How to Create a Powerful LinkedIn Profile</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                  </ul>
+    </a>
+    </li>
+    </ul>
+  </div>
+<div class="calendar-list">
+  <div>
+    <div class="label-text-day">
+      <span class="mobile-hide">
+        Wednesday      </span>
+      <span class="mobile-only">
+        Wednesday, May 09      </span>
+    </div>
+    <div class="label-num-day mobile-hide">
+      09      <span class="label-month">
+        May      </span>
+    </div>
+  </div>
+  <ul class="times">
+    <li class="first last even">
+      
+  <a href="/ministries/students/events/gateway-students">
+      <span class="time">7:00 pm</span>
+  
+      <span class="time-event">Gateway Students</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Frisco Campus" title="Frisco Campus">
+            FRS          </li>
+                                          <li class="campus-abbr" alt="Grand Prairie Campus" title="Grand Prairie Campus">
+            GRP          </li>
+                                          <li class="campus-abbr" alt="North Fort Worth Campus" title="North Fort Worth Campus">
+            NFW          </li>
+                                          <li class="campus-abbr" alt="NRH Campus" title="NRH Campus">
+            NRH          </li>
+                                          <li class="campus-abbr" alt="The King’s University" title="The King’s University">
+            TKU          </li>
+                                          <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                  </ul>
+    </a>
+    </li>
+    </ul>
+  </div>
+<div class="calendar-list">
+  <div>
+    <div class="label-text-day">
+      <span class="mobile-hide">
+        Thursday      </span>
+      <span class="mobile-only">
+        Thursday, May 10      </span>
+    </div>
+    <div class="label-num-day mobile-hide">
+      10      <span class="label-month">
+        May      </span>
+    </div>
+  </div>
+  <ul class="times">
+    <li class="first last odd">
+      
+  <a href="/ministries/prayer/events/pray-first-1">
+      <span class="time">7:00 am</span>
+  
+      <span class="time-event">Pray First</span>
+  
+      <ul class="time-location">
+                                  <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                  </ul>
+    </a>
+    </li>
+    </ul>
+  </div>
+<div class="calendar-list">
+  <div>
+    <div class="label-text-day">
+      <span class="mobile-hide">
+        Saturday      </span>
+      <span class="mobile-only">
+        Saturday, May 12      </span>
+    </div>
+    <div class="label-num-day mobile-hide">
+      12      <span class="label-month">
+        May      </span>
+    </div>
+  </div>
+  <ul class="times">
+    <li class="first even">
+      
+  <a href="/ministries/life/events/the-overcoming-life-a-gateway-series">
+      <span class="time">9:00 am</span>
+  
+      <span class="time-event">The Overcoming Life | A Gateway Series</span>
+  
+      <ul class="time-location">
+                                                              <li class="campus-abbr" alt="Frisco Campus" title="Frisco Campus">
+            FRS          </li>
+                                                                                    <li class="campus-abbr" alt="Grand Prairie Campus" title="Grand Prairie Campus">
+            GRP          </li>
+                                                                                                  <li class="campus-abbr" alt="North Fort Worth Campus" title="North Fort Worth Campus">
+            NFW          </li>
+                                                                                                                                                          <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                                                                                    <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                                </ul>
+    </a>
+    </li>
+      <li class="last odd">
+      
+  <a href="/ministries/life/events/the-overcoming-life-a-gateway-series">
+      <span class="time">10:45 am</span>
+  
+      <span class="time-event">The Overcoming Life | A Gateway Series</span>
+  
+      <ul class="time-location">
+                                                                            <li class="campus-abbr" alt="Frisco Campus" title="Frisco Campus">
+            FRS          </li>
+                                                                                    <li class="campus-abbr" alt="Grand Prairie Campus" title="Grand Prairie Campus">
+            GRP          </li>
+                                                                                                  <li class="campus-abbr" alt="North Fort Worth Campus" title="North Fort Worth Campus">
+            NFW          </li>
+                                                                                    <li class="campus-abbr" alt="NRH Campus" title="NRH Campus">
+            NRH          </li>
+                                                                                                  <li class="campus-abbr" alt="Southlake Campus" title="Southlake Campus">
+            SLK          </li>
+                                                                                    <li class="campus-abbr" alt="Dallas Campus" title="Dallas Campus">
+            DAL          </li>
+                  </ul>
+    </a>
+    </li>
+    </ul>
+  </div>
+    </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous first">&nbsp;</li>
+<li class="pager-current">1 of 9</li>
+<li class="pager-next last"><a href="/campus/dallas/events?field_occurrence_date_value2%5Bvalue%5D&amp;page=1">next</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+              <div class="content-footer">
+                              </div>
+            </div>
+          
+          
+          
+          
+          
+        </div> <!-- /.content-inner -->
+      </div>
+    </div> <!-- /.content-wrapper -->
+  
+    
+    
+</section><!-- /#content -->
+
+
+<footer class="site-info">
+  <div class="wrapper">
+    <div class="footer-social">
+      <ul>
+        <li><a href="https://facebook.com/gatewaypeople" target="_blank"><i class="icon-facebook"></i></a></li>
+        <li><a href="https://twitter.com/gatewaypeople" target="_blank"><i class="icon-twitter"></i></a></li>
+        <li><a href="https://instagram.com/gatewaypeople" target="_blank"><i class="icon-instagram"></i></a></li>
+        <li><a href="https://www.youtube.com/user/gatewaychurchtv" target="_blank"><i class="icon-youtube"></i></a></li>
+      </ul>
+    </div>
+    <div class="footer-info">
+
+      <div class="church-tag">Milford Baptist Church | <span>we're all about people</span></div>
+      <div class="church-info">&copy; 2018 | 817.328.1000 | 500 S Nolen Dr, Southlake, TX 76092</div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    
+    <div class="clearfix"></div>
+
+  </div><!-- /.wrapper -->
+
+</footer>
+<div class="footer-spacer"></div>
+<div id="scroll-top-top" style="display: none;"><a href="#top" data-target="0" class="scrollto"><i class="fa fa-chevron-up"></i></a></div>
+
+
+<script async src='https://tag.simpli.fi/sifitag/613b3ba0-054d-0136-44aa-067f653fa718'></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1494434-2', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+<script type='text/javascript'>
+  window.__lo_site_id = 76681;
+
+  (function() {
+  var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+  wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+  })();
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5XSN7F');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5XSN7F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//us2.siteimprove.com/js/siteanalyze_79783.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://gatewaypeople.com/sites/all/modules/custom/gwp_simple_menu/js/gwp_simple_menu.js?p7rj3q"></script>
+</body>
+</html>

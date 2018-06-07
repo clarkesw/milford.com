@@ -1,0 +1,625 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//cf.gatewaypeople.com" />
+<!--[if IE 9]>
+<link rel="prefetch" href="//cf.gatewaypeople.com" />
+<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="http://cf.gatewaypeople.com/prod/s3fs-public/GC_Favicon_FINAL.ico?Ih3p6gL5E6uns.r5d.1OGBez3IZnZtfJ" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://gatewaypeople.com/campus/dallas/classes" />
+<link rel="shortlink" href="http://gatewaypeople.com/campus/dallas/classes" />
+<meta property="og:site_name" content="Milford Baptist Church" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Classes" />
+  <title>Classes | Milford Baptist Church</title>
+  <style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/modules/system/system.base.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/system/system.menus.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/system/system.messages.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/system/system.theme.css?p7rj3q");
+</style>
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/all/libraries/chosen/chosen.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/chosen/css/chosen-drupal.css?p7rj3q");
+</style>
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/media_theplatform_mpx/css/media_theplatform_mpx.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_api/date.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/date/date_repeat_field/date_repeat_field.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/field/theme/field.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/mollom/mollom.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/node/node.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/search/search.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/modules/user/user.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/views/css/views.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/gwp/modules/contrib/ckeditor/css/ckeditor.css?p7rj3q");
+</style>
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/all/modules/contrib/ctools/css/ctools.css?p7rj3q");
+@import url("http://gatewaypeople.com/sites/all/modules/custom/gwp_simple_menu/css/gwp_simple_menu.css?p7rj3q");
+@import url("http://cf.gatewaypeople.com/sites/all/libraries/mediaelement/build/mediaelementplayer.min.css?p7rj3q");
+</style>
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/gwp/themes/gwp_horizon/styles/css/app.css?p7rj3q");
+</style>
+<link type="text/css" rel="stylesheet" href="//cloud.typography.com/715654/749506/css/fonts.css" media="all" />
+<style type="text/css" media="all">
+@import url("http://cf.gatewaypeople.com/sites/gwp/themes/gwp_horizon/js/lib/fancyBox/jquery.fancybox.css?p7rj3q");
+</style>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/misc/drupal.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/libraries/chosen/chosen.jquery.min.js?v=1.1.0"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/libraries/mediaelement/build/mediaelement-and-player.min.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/modules/contrib/better_exposed_filters/better_exposed_filters.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/misc/autocomplete.js?v=7.59"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/gwp/libraries/momentjs/moment.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/libraries/momenttimezonejs/moment-timezone-with-data.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/gwp/libraries/final_countdown/jquery.countdown.min.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/gwp/themes/gwp_horizon/js/lib/fancyBox/jquery.fancybox.pack.js?p7rj3q"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/all/modules/contrib/chosen/chosen.js?v=1.1.0"></script>
+<script type="text/javascript" src="http://cf.gatewaypeople.com/sites/gwp/themes/gwp_horizon/js/combined.js?p7rj3q"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"gwp_horizon","theme_token":"Ag91xIKvkXdglQ40WUCG2F1LNvt0C7IYpIdNdy8ZGjU","js":{"0":1,"http:\/\/gatewaypeople.com\/sites\/all\/modules\/custom\/gwp_simple_menu\/js\/gwp_simple_menu.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelement-and-player.min.js":1,"sites\/all\/modules\/contrib\/better_exposed_filters\/better_exposed_filters.js":1,"misc\/autocomplete.js":1,"sites\/gwp\/libraries\/momentjs\/moment.js":1,"sites\/all\/libraries\/momenttimezonejs\/moment-timezone-with-data.js":1,"sites\/gwp\/libraries\/final_countdown\/jquery.countdown.min.js":1,"sites\/gwp\/themes\/gwp_horizon\/js\/lib\/fancyBox\/jquery.fancybox.pack.js":1,"sites\/all\/modules\/contrib\/chosen\/chosen.js":1,"sites\/gwp\/themes\/gwp_horizon\/js\/combined.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"sites\/all\/modules\/contrib\/media_theplatform_mpx\/css\/media_theplatform_mpx.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/gwp\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"http:\/\/gatewaypeople.com\/sites\/all\/modules\/custom\/gwp_simple_menu\/css\/gwp_simple_menu.css":1,"sites\/all\/libraries\/mediaelement\/build\/mediaelementplayer.min.css":1,"sites\/gwp\/themes\/gwp_horizon\/styles\/css\/app.css":1,"\/\/cloud.typography.com\/715654\/749506\/css\/fonts.css":1,"sites\/gwp\/themes\/gwp_horizon\/js\/lib\/fancyBox\/jquery.fancybox.css":1}},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[],"autosubmit":false,"views":{"class_list":{"displays":{"campus_classes_page":{"filters":{"field_class_session_target_id_entityreference_filter":{"required":false},"field_class_track_tid":{"required":false},"field_speaker_target_id_entityreference_filter":{"required":false},"tid":{"required":false}}}}},"gwp_campus_selector":{"displays":{"block_campus_selector":{"filters":[]}}}}},"chosen":{"selector":".chosen, select","minimum_single":0,"minimum_multiple":0,"minimum_width":200,"options":{"allow_single_deselect":false,"disable_search":false,"disable_search_threshold":0,"search_contains":true,"placeholder_text_multiple":"Choose options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/campus\/dallas\/classes":true},"currentPath":"campus\/dallas\/classes","currentPathIsAdmin":false,"ogContext":{"groupType":"node","gid":"562326"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-campus page-campus-dallas page-campus-dallas-classes og-context og-context-node og-context-node-562326" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- the placeholder element for top of page -->
+<div id="top"></div>
+
+<header class="header header-v1" role="banner">
+
+  <div class="wrapper">
+    <div id="site-logo">
+      <a href="/" title="Milford Baptist Church" rel="home" class="site-nav-logo"><img src="http://cf.gatewaypeople.com/prod/s3fs-public/gateway_logo_new.svg?null" alt="Home" /></a>
+    </div>
+  </div>
+
+  <div class="header-top">
+    <div class="wrapper">
+              <div class="secondary-navigations">
+                      <div class="secondary-nav">
+                  <div class="region region-secondary-nav">
+    
+<div id="block-menu-menu-secondary-menu" class="block block-menu">
+
+        <div class="wrapper">
+
+      <h2>Secondary Menu</h2>
+          <div>
+    <ul class="menu"><li class="first leaf"><a href="/watch/live" class="watch-live">Watch Live</a></li>
+<li class="leaf"><a href="/watch/message-archives/individual?og_group_ref_target_id_entityreference_filter=1" class="watch-archive">Messages</a></li>
+<li class="leaf"><a href="/ministries/life/tithes-egiving">Give</a></li>
+<li class="leaf"><a href="/ministries/prayer">Pray</a></li>
+<li class="leaf"><a href="http://gatewaydevotions.com">Devotions</a></li>
+<li class="leaf"><a href="http://store.gatewaypeople.com">Store</a></li>
+<li class="last expanded"><a href="/">Social</a><ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/gatewaypeople" title="">Facebook</a></li>
+<li class="leaf"><a href="https://instagram.com/gatewaypeople">Instagram</a></li>
+<li class="last leaf"><a href="http://twitter.com/gatewaypeople" title="">Twitter</a></li>
+</ul></li>
+</ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+
+<div id="block-search-form" class="block block-search">
+
+        <div class="wrapper">
+
+          <div>
+    <form action="/campus/dallas/classes" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-RtN1CpA25OUKqpIhSeSowXBKVhQWj3SR_wOwpWpp7Ow" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+                                  <div id="campus-selector">
+                      <div class="campus-picker">
+                          <span class="default">Select a Campus</span>
+                          <div class="view view-gwp-campus-selector view-id-gwp_campus_selector view-display-id-block_campus_selector campus-selector view-dom-id-a49ffde0d648af05dc4f1b55d878da8f">
+        
+  
+  
+      <div class="view-content">
+        <ul class="campus-selector">
+    <li class="first odd">
+      <a href='/?campus=22' data-campus-id="22" data-campus-long-title="Southlake" data-campus-abbreviation="SLK" target="_blank">Southlake</a>
+    </li>
+      <li class="even">
+      <a href='/?campus=562326' data-campus-id="562326" data-campus-long-title="Dallas" data-campus-abbreviation="DAL" target="_blank">Dallas</a>
+    </li>
+      <li class="odd">
+      <a href='/?campus=43' data-campus-id="43" data-campus-long-title="Frisco" data-campus-abbreviation="FRS" target="_blank">Frisco</a>
+    </li>
+      <li class="even">
+      <a href='/?campus=44' data-campus-id="44" data-campus-long-title="Grand Prairie" data-campus-abbreviation="GRP" target="_blank">Grand Prairie</a>
+    </li>
+      <li class="odd">
+      <a href='/?campus=45' data-campus-id="45" data-campus-long-title="North Fort Worth" data-campus-abbreviation="NFW" target="_blank">North Fort Worth</a>
+    </li>
+      <li class="last even">
+      <a href='/?campus=29' data-campus-id="29" data-campus-long-title="NRH" data-campus-abbreviation="NRH" target="_blank">NRH</a>
+    </li>
+    </ul>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>                      </div>
+                  </div>
+                            </div>
+          
+                  </div><!-- /.secondary-navigations -->
+          </div><!-- /.wrapper -->
+  </div><!-- /.header-top -->
+
+  <div class="header-inner">
+    <div class="wrapper">
+      <div class="site-branding">
+                  <div class="nav-bg">
+            <div class="nav-wrapper">
+              <div class="nav-inner">
+
+                
+                                  <div class="main-nav">  <div class="region region-main-nav">
+    
+<div id="block-system-main-menu" class="block block-system block-menu">
+
+        <div class="wrapper">
+
+          <div>
+    <ul class="menu"><li class="first leaf"><a href="/ministries/life/about-gateway-church" title="">About Us</a></li>
+<li class="leaf"><a href="/ministries/life/get-connected">Get Connected</a></li>
+<li class="leaf"><a href="/ministries">Ministries</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="/" class="super-menu-trigger mobile-menu-disable">Conferences</a></li>
+<li class="last leaf"><a href="/watch/live" class="watch-button-placeholder mobile-menu-disable">ON AIR</a></li>
+</ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+</div>
+                
+                
+<div id="dl-menu" class="dl-menuwrapper">
+  <span class="dl-trigger hamburger icon">
+    <a href="#"></a>
+  </span>
+
+  <ul class="dl-menu">
+        <li id="mobile_campus" class="dl-menu-border">
+      <a href="#">Campuses</a>
+      
+        
+  
+  
+      
+        <ul class="campus-selector">
+    <li class="first odd">
+      <a href='/?campus=22' data-campus-id="22" data-campus-long-title="Southlake" data-campus-abbreviation="SLK" target="_blank">Southlake</a>
+    </li>
+      <li class="even">
+      <a href='/?campus=562326' data-campus-id="562326" data-campus-long-title="Dallas" data-campus-abbreviation="DAL" target="_blank">Dallas</a>
+    </li>
+      <li class="odd">
+      <a href='/?campus=43' data-campus-id="43" data-campus-long-title="Frisco" data-campus-abbreviation="FRS" target="_blank">Frisco</a>
+    </li>
+      <li class="even">
+      <a href='/?campus=44' data-campus-id="44" data-campus-long-title="Grand Prairie" data-campus-abbreviation="GRP" target="_blank">Grand Prairie</a>
+    </li>
+      <li class="odd">
+      <a href='/?campus=45' data-campus-id="45" data-campus-long-title="North Fort Worth" data-campus-abbreviation="NFW" target="_blank">North Fort Worth</a>
+    </li>
+      <li class="last even">
+      <a href='/?campus=29' data-campus-id="29" data-campus-long-title="NRH" data-campus-abbreviation="NRH" target="_blank">NRH</a>
+    </li>
+    </ul>
+    
+  
+  
+  
+  
+  
+  
+    </li>
+    <li class="first leaf"><a href="/ministries/life/about-gateway-church" title="">About Us</a></li>
+<li class="leaf"><a href="/ministries/life/get-connected">Get Connected</a></li>
+<li class="leaf"><a href="/ministries">Ministries</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="/" class="super-menu-trigger mobile-menu-disable">Conferences</a></li>
+<li class="last leaf"><a href="/watch/live" class="watch-button-placeholder mobile-menu-disable">ON AIR</a></li>
+    <li id="mobile_conferences" class="dl-menu-border">
+      <a href="#">Conferences</a>
+      <ul class="menu">
+        <li class="first leaf"><a href="http://first.gatewaypeople.com" target="_blank">First Conference</a></li>
+<li class="leaf"><a href="http://xomarriageconference.com/" target="_blank">XO Marriage Conference</a></li>
+<li class="leaf"><a href="http://menssummit.com" id="site-affiliate-links-mens-summit" class="site-affiliate-links-item">Men&#039;s Summit</a></li>
+<li class="leaf"><a href="http://pinkimpact.com" id="site-affiliate-links-pink-impact" class="site-affiliate-links-item">Pink Impact</a></li>
+<li class="leaf"><a href="http://gatewaystudentconference.com" id="site-affiliate-links-gateway-student-conference" class="site-affiliate-links-item">Gateway Student Conference</a></li>
+<li class="last leaf"><a href="http://gatewayconference.com" id="site-affiliate-links-gateway-conference" class="site-affiliate-links-item" target="_blank">Gateway Conference</a></li>
+      </ul>
+    </li>
+    <li class="first leaf"><a href="/watch/live" class="watch-live">Watch Live</a></li>
+<li class="leaf"><a href="/watch/message-archives/individual?og_group_ref_target_id_entityreference_filter=1" class="watch-archive">Messages</a></li>
+<li class="leaf"><a href="/ministries/life/tithes-egiving">Give</a></li>
+<li class="leaf"><a href="/ministries/prayer">Pray</a></li>
+<li class="leaf"><a href="http://gatewaydevotions.com">Devotions</a></li>
+<li class="leaf"><a href="http://store.gatewaypeople.com">Store</a></li>
+<li class="last expanded"><a href="/">Social</a><ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/gatewaypeople" title="">Facebook</a></li>
+<li class="leaf"><a href="https://instagram.com/gatewaypeople">Instagram</a></li>
+<li class="last leaf"><a href="http://twitter.com/gatewaypeople" title="">Twitter</a></li>
+</ul></li>
+
+  </ul>
+
+</div>
+
+<script src="http://cf.gatewaypeople.com/prod/s3fs-public/menuCall.js?null"></script>              </div> <!-- /.nav-inner -->
+            </div>  <!-- /.nav-wrapper -->
+          </div> <!-- /.nav-bg -->
+              </div><!-- /.site-branding -->
+          </div>
+  </div>  <!-- /.header-inner -->
+
+      <div class="super-menu">
+      <div class="wrapper">
+          <div class="region region-super-menu">
+    
+<div id="block-menu-menu-super-menu-conferences" class="block block-menu">
+
+        <div class="wrapper">
+
+      <h2>Conferences</h2>
+          <div>
+    <ul class="menu gwp-simple-menu gwp-simple-menu--og-menu gwp-simple-menu--og-menu--department"><li class="first leaf"><a href="http://first.gatewaypeople.com" target="_blank">First Conference</a></li>
+<li class="leaf"><a href="http://xomarriageconference.com/" target="_blank">XO Marriage Conference</a></li>
+<li class="leaf"><a href="http://menssummit.com" id="site-affiliate-links-mens-summit" class="site-affiliate-links-item">Men&#039;s Summit</a></li>
+<li class="leaf"><a href="http://pinkimpact.com" id="site-affiliate-links-pink-impact" class="site-affiliate-links-item">Pink Impact</a></li>
+<li class="leaf"><a href="http://gatewaystudentconference.com" id="site-affiliate-links-gateway-student-conference" class="site-affiliate-links-item">Gateway Student Conference</a></li>
+<li class="last leaf"><a href="http://gatewayconference.com" id="site-affiliate-links-gateway-conference" class="site-affiliate-links-item" target="_blank">Gateway Conference</a></li>
+</ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+      </div>
+    </div>
+  
+</header>
+<div class="generic-header">
+  <div class="wrapper">
+    
+          <h1>
+        Classes              </h1>
+              <h2>Dallas</h2>
+      </div><!-- /.wrapper -->
+</div>
+
+
+
+
+
+
+<section id="content">
+
+  
+      <div class="content-wrapper clearfix">
+
+    
+      <div class="wrapper">
+        <a id="main-content"></a>
+        <div class="content-inner clearfix" role="main">
+
+                      <aside class="aside-first">
+                <div class="region region-aside-first">
+    
+<div id="block-og-menu-og-single-menu-block" class="block block-og-menu">
+
+        <div class="wrapper">
+
+          <div>
+    <ul class="menu gwp-simple-menu gwp-simple-menu--og-menu gwp-simple-menu--og-menu--campus"><li class="first leaf"><a href="/campus/dallas">About Us</a></li>
+<li class="leaf"><a href="/campus/dallas/staff">Our Staff</a></li>
+<li class="leaf"><a href="/campus/dallas/get-involved-dallas-campus">Get Involved</a></li>
+<li class="leaf"><a href="/campus/dallas/events">Events</a></li>
+<li class="leaf active-trail"><a href="/campus/dallas/classes" class="active-trail active">Classes</a></li>
+<li class="leaf"><a href="/ministries/groups/groups?group_campus=562326">Groups</a></li>
+<li class="last leaf"><a href="/campus/dallas/faq-dallas-campus">FAQ</a></li>
+</ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+
+<div id="block-gwp-sites-sidebar-campus-times" class="block block-gwp-sites">
+
+        <div class="wrapper">
+
+          <div>
+    
+    <ul class="menu gwp-simple-menu">
+      <li class="leaf expanded"><a href="#">Café Hours</a>
+        <ul class="menu gwp-simple-menu">
+          <li>
+            <p>Saturday:<br/>4:45 pm–7:15 pm</p>
+            <p>Sunday:<br/>9:00 am–12:30 pm</p>
+            <p>Monday:<br/>Closed</p>
+            <p>Tuesday:<br/>Closed</p>
+            <p>Wednesday:<br/>6:00 pm-7:30 pm</p>
+            <p>Thursday:<br/>Closed</p>
+            <p>Friday:<br/>Closed</p>
+          </li>
+        </ul>
+      </li>
+      <li class="leaf expanded"><a href="#">Bookstore Hours</a>
+        <ul class="menu gwp-simple-menu">
+          <li>
+            <p>Saturday:<br/>4:45 pm–7:30 pm</p>
+            <p>Sunday:<br/>8:15 am–12:30 pm</p>
+            <p>Monday:<br/>Closed</p>
+            <p>Tuesday:<br/>Closed</p>
+            <p>Wednesday:<br/>Closed</p>
+            <p>Thursday:<br/>Closed</p>
+            <p>Friday:<br/>Closed</p>
+          </li>
+        </ul>
+      </li>
+    </ul>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+            </aside>
+          
+                      <div class="content with-aside-first">
+                <div class="region region-content">
+    
+<div id="block-system-main" class="block block-system">
+
+        <div class="wrapper">
+
+          <div>
+    
+<div class="view view-class-list view-id-class_list view-display-id-campus_classes_page view-dom-id-35bcb71b2776dbc3e0117920d0357a77">
+  
+  
+  
+  
+  
+  <div class="wrapper-padding" >
+
+          <div class="filter-wrap">
+          <div class="view-filters">
+            <form action="/campus/dallas/classes" method="get" id="views-exposed-form-class-list-campus-classes-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-class-session-target-id-entityreference-filter-wrapper" class="views-exposed-widget views-widget-filter-field_class_session_target_id_entityreference_filter">
+                        <div class="views-widget">
+          <div class="element-hidden"><div class="form-item form-type-select form-item-field-class-session-target-id-entityreference-filter">
+ <select id="edit-field-class-session-target-id-entityreference-filter" name="field_class_session_target_id_entityreference_filter" class="form-select"><option value="All" selected="selected">- Any -</option></select>
+</div>
+</div>        </div>
+              </div>
+          <div id="edit-field-class-track-tid-wrapper" class="views-exposed-widget views-widget-filter-field_class_track_tid">
+                  <label for="edit-field-class-track-tid">
+            Filter by Track(s)?          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-class-track-tid">
+ <select multiple="multiple" name="field_class_track_tid[]" id="edit-field-class-track-tid" size="7" class="form-select"><option value="9">Freedom Ministry</option><option value="10">Global Ministry</option><option value="11">Leadership</option><option value="12">Marriage &amp; Family</option><option value="13">Spiritual Life</option><option value="8">Stewardship</option><option value="14">Worship Ministry</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-field-speaker-target-id-entityreference-filter-wrapper" class="views-exposed-widget views-widget-filter-field_speaker_target_id_entityreference_filter">
+                  <label for="edit-field-speaker-target-id-entityreference-filter">
+            Filter by Class Leader?          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-speaker-target-id-entityreference-filter">
+ <select multiple="multiple" name="field_speaker_target_id_entityreference_filter[]" id="edit-field-speaker-target-id-entityreference-filter" size="8" class="form-select"><option value="608521"> Steve &amp; René Cundiff </option><option value="554036"> Jack Abraham </option><option value="67268"> Sion Alford </option><option value="556936"> Shannon Alford </option><option value="570416"> Amy Alise </option><option value="584711"> Paul Allen </option><option value="556321"> James Allen </option><option value="556966"> Pam Anderson </option><option value="67304"> Mark Anthony </option><option value="525776"> Igor Ashkinazi </option><option value="67302"> Jason Aulds </option><option value="567691"> Brandon Bailey </option><option value="553471"> Larry Barber </option><option value="549231"> Suzanne Barker </option><option value="525811"> David Barton </option><option value="571671"> Hrishi Baskaran </option><option value="125634"> Mallory Bassham </option><option value="597191"> Monica Bates </option><option value="600746"> Daniel and Kim Baughman </option><option value="607281"> Russell Baxter </option><option value="605666"> Kristi Bell </option><option value="588876"> Chad and Wenona Benbrook </option><option value="164041"> Landon Benjamin </option><option value="577531"> Gary Benjamin </option><option value="550056"> Dan Bennett </option><option value="525946"> Jonathan Bernis </option><option value="556971"> Rebecca Berry </option><option value="589016"> Chad Berry </option><option value="572036"> Lisa Bevere </option><option value="525806"> John Bevere </option><option value="525866"> Rick Bezet </option><option value="588976"> Kyndl Bickers </option><option value="556871"> Jeff Black </option><option value="603981"> Susan Blease </option><option value="600316"> Paul Blease </option><option value="587926"> David Blease </option><option value="67171"> Bobby Bogard </option><option value="240926"> Jim Bolling </option><option value="136691"> Marc Bolling </option><option value="150676"> Todd Bolt </option><option value="525896"> Reinhard Bonnke </option><option value="600726"> Dr. Connie Borden </option><option value="136690"> Kimberly Boschman </option><option value="577491"> LaMar Boschman </option><option value="525746"> Brady Boyd </option><option value="556961"> John Bradford </option><option value="130421"> Michael Brady </option><option value="554121"> Shawn Brann </option><option value="67141"> Marcus Brecheen </option><option value="556931"> Lexa Brecheen </option><option value="67291"> Robb Brewer </option><option value="67264"> Tommy H. Briggs, Sr. </option><option value="605581"> Richard Bright </option><option value="605586"> Sheri Bright </option><option value="157466"> Josh Briscoe </option><option value="67147"> Mike Brisky </option><option value="597066"> Judy Brisky </option><option value="572111"> Dr. Rice Broocks </option><option value="559636"> Connie Brown </option><option value="525796"> Dr. Michael Brown </option><option value="579771"> Marie Brown </option><option value="67161"> Larry Brown </option><option value="580076"> Christyl Buchanan </option><option value="589406"> Bryan Burkholder </option><option value="584731"> Donna Burley </option><option value="67153"> Stacy Burnett </option><option value="588811"> Mari Burrough </option><option value="607261"> Jacquelyn Bushnell </option><option value="577501"> Barbara Byers </option><option value="119386"> Raul Cabrera </option><option value="553526"> Rabbi Jonathan Cahn </option><option value="525871"> Christine Caine </option><option value="131197"> Jeremy Carrasco </option><option value="602051"> Deni Carruth </option><option value="584666"> Rodney and Angela Carter </option><option value="526011"> Joe Champion </option><option value="550011"> Jabin Chavez </option><option value="157441"> Aaron Cheuvront </option><option value="563571"> Bill Clark </option><option value="604941"> Logan Claypoole </option><option value="561626"> Clint Claypoole </option><option value="574716"> Dr. Henry Cloud </option><option value="524111"> Josh Coad </option><option value="537671"> Cheri Cochran </option><option value="537416"> Akiva Cohen </option><option value="525766"> Geoffrey Cohen </option><option value="398276"> Courtney Cohen </option><option value="525971"> Michele Cohen </option><option value="602001"> Julie Cole </option><option value="598936"> Beth Collins </option><option value="125643"> Stokes Collins </option><option value="584706"> Mark Connell </option><option value="67148"> Byron Copeland </option><option value="559611"> Dr. Frank Corbo, DC, CCRD </option><option value="398801"> Frank Corbno </option><option value="604621"> Randy Cox </option><option value="157446"> Aaron Crider </option><option value="524931"> John Cruse </option><option value="148220"> Tim Cruz </option><option value="526021"> Rachel Cruze </option><option value="584476"> Dan and Linda D&#039;Amico </option><option value="525731"> Peter Daniels </option><option value="544266"> Mondoe Davis </option><option value="525851"> Paul De Jong </option><option value="550026"> Dusty Dean </option><option value="525751"> Dr. Jack Deere </option><option value="137831"> Stan Dennis </option><option value="148179"> Jon Paul Dennis </option><option value="588516"> Richard DeOtte </option><option value="199536"> Wendell DePrang </option><option value="398766"> Jayme Dixon </option><option value="525916"> Creflo Dollar </option><option value="596576"> Santiago Dominguez </option><option value="596581"> Carmela Dominguez </option><option value="525736"> Jeff Drott </option><option value="604731"> Steve DuBell </option><option value="597041"> Salina Duffy </option><option value="574666"> Mathew Dujka </option><option value="589931"> Steve Dulin </option><option value="67169"> Steve Dulin </option><option value="567701"> Daniel Duncan </option><option value="157461"> Jon Dunn </option><option value="157486"> Laurinda Dunn </option><option value="604816"> Derek Dunn </option><option value="523051"> Craig Dunnagan </option><option value="556876"> Ed Eaton </option><option value="550066"> Kellen Eberling </option><option value="556921"> Lloyd Eisenrich </option><option value="556926"> Mari Eisenrich </option><option value="240936"> Ken Eldred </option><option value="548576"> Kelly Elliott </option><option value="550021"> Robbie Emery </option><option value="67273"> Andy Engstrom </option><option value="146621"> Hannah Etsebeth </option><option value="143249"> Cathy Ethridge </option><option value="67277"> Jimmy Evans </option><option value="525936"> Russell Evans </option><option value="525941"> Tony Evans </option><option value="608056"> Sid Falco </option><option value="608061"> Tracy Falco </option><option value="238576"> Kenneth W. Fambro, II </option><option value="567676"> Jeremy Farmer </option><option value="556991"> Raul Fernandez </option><option value="604841"> Joshua Fewell </option><option value="550081"> Elaine Fisher </option><option value="145165"> Ethan Fisher </option><option value="67296"> Mike Foltynski </option><option value="554316"> Amy Ford </option><option value="67301"> Kyle Fox </option><option value="601951"> Kevin Freeman </option><option value="164026"> James Gadberry </option><option value="556141"> Charlotte Gambill </option><option value="588096"> Jonathan Gaspard </option><option value="604936"> Laura George </option><option value="584721"> JoAnn Georgostathis </option><option value="216861"> Paulette Gillespie </option><option value="577496"> Benjamin Gilmore </option><option value="579961"> Kemtal Glasgow </option><option value="555666"> Greg Gless  </option><option value="589206"> Linda Godsey </option><option value="67184"> Samantha Golden </option><option value="607491"> Diane Gonzalez </option><option value="600301"> Franklin Graham </option><option value="526031"> John Gray </option><option value="67290"> Jan Greenwood </option><option value="537626"> Chris Griffin </option><option value="158486"> Olen Griffing </option><option value="525911"> Craig Groeschel </option><option value="589936"> Kevin Grove </option><option value="67284"> Lynda Grove </option><option value="67170"> Kevin Grove </option><option value="537421"> George Grubbs </option><option value="240941"> Carrie Gurley </option><option value="131913"> Mike Guzzardo </option><option value="555116"> Danny Hageman </option><option value="601991"> Sheree Hall </option><option value="577516"> Jim Hall  </option><option value="148180"> Josh Hall </option><option value="604931"> Kelly Hamilton </option><option value="573236"> Tonya Hamilton </option><option value="525906"> Bob Hamp </option><option value="525081"> Dave Hampson </option><option value="157496"> Mark Harris </option><option value="604946"> Matthew Harris </option><option value="398806"> Guy Hatcher </option><option value="604826"> Douglas Hawk </option><option value="67308"> Jack Hayford </option><option value="589396"> Alex Headrick </option><option value="550076"> Brenda Hendrix-Smith </option><option value="524941"> Matthew Hernandez </option><option value="602056"> Dustin Herron </option><option value="588836"> Josh Hickman </option><option value="550051"> Peter Hirsch </option><option value="525891"> Chris Hodges </option><option value="563541"> Randy and Kim Holmes </option><option value="157501"> Niles Holsinger </option><option value="525931"> Brian Houston </option><option value="525831"> Mike Huckabee </option><option value="67286"> Brett Huckins </option><option value="164036"> Kam Hunt </option><option value="524946"> Phillip Hunter </option><option value="525886"> Roosevelt Hunter </option><option value="577506"> Allison Hunter </option><option value="564166"> Dr. Jon Huntzinger </option><option value="525921"> Bill Hybels </option><option value="550046"> Tim Ingram </option><option value="240946"> Sam Ingrassia </option><option value="584781"> Brad Jack </option><option value="525951"> Harry Jackson </option><option value="525861"> T. D. Jakes </option><option value="556951"> Tomi Jarrell </option><option value="556956"> Darrell Jarrell </option><option value="585771"> Linda Jean </option><option value="556911"> Tony Jeary </option><option value="577521"> Dennis Jernigan </option><option value="167386"> Sandy Jobe </option><option value="67165"> Mark Jobe </option><option value="525996"> J. John </option><option value="567671"> Crystal Johnson </option><option value="602081"> Barry Johnson </option><option value="582166"> Bill Johnson </option><option value="556946"> Jeff Jones </option><option value="146623"> Liz Jones </option><option value="588846"> Kelly Jones </option><option value="607266"> Joe Jones  </option><option value="525961"> Michael Jr. </option><option value="572951"> Edgar Karssenberg </option><option value="564201"> Melanie Karssenberg </option><option value="567656"> Stephanie Kelsey </option><option value="67313"> Allan Kelsey </option><option value="240951"> Liz Kester </option><option value="145151"> Kristy Key </option><option value="550006"> Josh Kimes </option><option value="553511"> Kim Kingsriter </option><option value="577476"> Doug Kingsriter </option><option value="584606"> Rebecca Kopplin </option><option value="589171"> King Kramer </option><option value="537476"> Ron Kramer </option><option value="525846"> Marcus Lamb </option><option value="604691"> Dr. Mitch Land  </option><option value="597031"> Jonathan Landis </option><option value="589916"> Tom Lane </option><option value="589921"> Todd Lane </option><option value="67138"> Tom Lane </option><option value="67142"> Todd Lane </option><option value="150774"> Blynda Lane </option><option value="607371"> Matt and Bethany Lankenau </option><option value="524121"> Matt Lankenau </option><option value="584486"> Rick and Brenda Laurence </option><option value="568731"> Greg Laurie </option><option value="589941"> Gayland Lawshe </option><option value="67225"> Gayland Lawshe </option><option value="588841"> Josh Lebel </option><option value="550071"> Kelly LeBlanc </option><option value="584656"> Erica LeBlanc </option><option value="525801"> Stephen LeBlanc </option><option value="526016"> Bill Leckie </option><option value="145207"> James Lee </option><option value="199516"> Matt Legg </option><option value="597056"> Kristin Lemus </option><option value="67250"> Jelani Lewis </option><option value="607276"> Jelani and Erin Lewis </option><option value="603456"> Ellen Lipscomb </option><option value="558431"> Rolando Lopez </option><option value="525881"> David Loveless </option><option value="607396"> James Lowe </option><option value="525986"> Max Lucado </option><option value="525966"> Cash Luna </option><option value="556906"> Michael Lynch </option><option value="125639"> Jared Lyons </option><option value="553666"> Robert Madu </option><option value="589161"> Joel Maldonado  </option><option value="197076"> Matt Manire </option><option value="554456"> Ernesto Marquez  </option><option value="596591"> Charles Martinez </option><option value="588981"> Sonya Martinez </option><option value="608251"> Jana Mason </option><option value="199521"> Rick Mauderer </option><option value="601996"> Sue Maughan </option><option value="525901"> Sameh Maurice </option><option value="525826"> John Maxwell </option><option value="136692"> Jim Mayher </option><option value="67317"> Todd McIntyre </option><option value="554466"> Christian McMillan </option><option value="574661"> Kyle McMurray </option><option value="398761"> Jonathan McNabb </option><option value="526041"> Miles McPherson </option><option value="556886"> Trish McWhorter </option><option value="597076"> Logan McWhorter </option><option value="174826"> Jeremy Meister </option><option value="577486"> Jon and Melissa Carley </option><option value="167421"> Bruce Menefee </option><option value="67282"> David Metcalfe </option><option value="537611"> Linda Michieli </option><option value="604116"> Glenn &amp; Sharon Miller </option><option value="589926"> Thomas Miller </option><option value="67139"> Thomas Miller </option><option value="577511"> Julia Miller </option><option value="607311"> Will and Shannon Miller </option><option value="553506"> Chuck Missler </option><option value="525156"> Tracey Mitchell </option><option value="233986"> Nelson Mitchell </option><option value="67228"> David Moore </option><option value="398796"> Patsy Moore </option><option value="131933"> Courtney Morgan </option><option value="567681"> Mit and Deana Morgan  </option><option value="394361"> Gregg Morgan </option><option value="150799"> James Morris </option><option value="67136"> Robert Morris </option><option value="67281"> Debbie Morris </option><option value="67151"> Josh Morris </option><option value="199486"> Andrew Morris </option><option value="584176"> David Morris </option><option value="67140"> Preston Morrison </option><option value="525771"> Jhan Moskowitz </option><option value="526026"> Tom Mullins </option><option value="587916"> Priya Arul Murphy </option><option value="586576"> Wade Myers </option><option value="525791"> Calev Myers </option><option value="241841"> Barry Nations </option><option value="602661"> Barry and Roxanne Nations </option><option value="556941"> Jen Neese </option><option value="67257"> Zach Neese </option><option value="131932"> Brittney Nelson </option><option value="577481"> Nathan Nelson </option><option value="556881"> Ira Nicodemus </option><option value="525976"> Perry Noble </option><option value="240961"> Loren Norris </option><option value="604726"> Ryan Northcutt </option><option value="524106"> Cole Novak </option><option value="602731"> Chelle O&#039;Keefe </option><option value="597036"> Feyi Obamehinti </option><option value="602616"> Gretta Oliver </option><option value="149622"> Eric Orson </option><option value="588831"> Matt Osgood </option><option value="602721"> Diane S. Paddison </option><option value="603976"> Discussion Panel </option><option value="550016"> Grant Pankratz </option><option value="67316"> Barney Paradise </option><option value="596586"> Kevin Pate </option><option value="525296"> Ralph Paul  </option><option value="573961"> Al Pearson </option><option value="596511"> Kristin Pelphrey </option><option value="399291"> Cristie Penn </option><option value="198071"> Dusty Petree </option><option value="67159"> Mary Jo Pierce </option><option value="556891"> Janette Minasian Pires </option><option value="582226"> Ben Pirtle </option><option value="567696"> Allen Powers </option><option value="604956"> Noelle Preston </option><option value="525756"> Peter Pretorius </option><option value="602066"> Jacobo Ramos </option><option value="526001"> Dave Ramsey </option><option value="588886"> Daniel Rangel </option><option value="559866"> Dr. Cassie Reid, PH.D., LPC-Supervisor </option><option value="572986"> Todd Reynolds </option><option value="589401"> Amber Rhoads </option><option value="604796"> Debbie Rhodes </option><option value="125640"> Rebeca Richmond </option><option value="525991"> Steve Riggle </option><option value="525856"> Dino Rizzo </option><option value="578031"> Phil Robertson </option><option value="67309"> James Robison </option><option value="589026"> Ruben Robles </option><option value="601956"> Bob Rockwell </option><option value="560726"> Samuel Rodriguez </option><option value="525816"> Dave Roever </option><option value="526036"> Matt Rosenberg </option><option value="601971"> Greg Rosenberg </option><option value="146625"> Tim Ross </option><option value="604961"> Zac Rowe </option><option value="563396"> David Rudolph </option><option value="574821"> Leda Rupert </option><option value="567686"> Paul Rupert </option><option value="240971"> Mark Rutland </option><option value="599371"> Maher Saab </option><option value="606781"> Maria Saab </option><option value="525956"> Taysir Abu Saada </option><option value="550041"> Tass Saada </option><option value="67262"> Leo Sabo </option><option value="602726"> Paola Saibene </option><option value="588736"> Ruben Salinas </option><option value="563556"> Dr. Pete Sanchez </option><option value="525981"> Rick Santorum </option><option value="139138"> Jon Seale </option><option value="146620"> Chelsea Seaton </option><option value="589411"> Neal Seiwert </option><option value="567636"> Jason Settle </option><option value="563266"> Elizabeth Settle </option><option value="586571"> Kelly Shackleford </option><option value="67294"> Tim Sheppard </option><option value="131936"> Kelle Sherpy </option><option value="597051"> Craig Shetterly </option><option value="526006"> Priscilla Shirer </option><option value="398286"> Brandon Shows </option><option value="596906"> Dave Simon </option><option value="563141"> Lamar Slay </option><option value="240976"> Rob Sloan </option><option value="157491"> Levi Smith </option><option value="537411"> Alan Smith </option><option value="559281"> David Smith </option><option value="579951"> Dave Smith </option><option value="559701"> Erik Snodgrass </option><option value="584726"> Oli Snyder </option><option value="525781"> Ari Sorko-Ram </option><option value="607936"> Jonathan and Kara Sparks </option><option value="67205"> JD Spivey </option><option value="567646"> Rita Springer </option><option value="67163"> John Spurling </option><option value="67252"> Brad Stahl </option><option value="558881"> Marissa Star </option><option value="567641"> Andrew Stevens </option><option value="240981"> Mike Stine </option><option value="525876"> Larry Stockstill </option><option value="544271"> Greg Stone </option><option value="597021"> Dana Stone </option><option value="567576"> Ryan and Kori Stubblefield </option><option value="199526"> Robert Sumner </option><option value="140736"> David Sumrall </option><option value="240991"> Bob Sweeney </option><option value="131934"> Lawrence Swicegood </option><option value="555156"> Jerret Sykes </option><option value="174846"> Chad Sykes </option><option value="588881"> Tagi Takape </option><option value="67149"> Jason Tam </option><option value="525761"> Jack Taylor </option><option value="240891"> Freedom Team </option><option value="601941"> Marriage &amp; Family Teaching Team </option><option value="557006"> Fresh Start Team </option><option value="241016"> Prayer Team </option><option value="601966"> Prophetic Ministry Leadership Team </option><option value="241351"> Equip Team </option><option value="241356"> Pink Team </option><option value="398301"> Stewardship Team </option><option value="607306"> Single Adults Ministry Team  </option><option value="525836"> Ricky Temple </option><option value="67154"> Craig Terndrup </option><option value="556901"> S. George Thomas </option><option value="602171"> Renée Thomas </option><option value="240996"> David Thompson </option><option value="148218"> Steve Thompson </option><option value="602021"> Sarah Tiemann </option><option value="604951"> Meredith Tilton </option><option value="216856"> Paul Tolliver </option><option value="525786"> Peter Tsukahira </option><option value="241006"> Jim Tucker </option><option value="580616"> Dwight Tutton </option><option value="525841"> Ken Ulmer </option><option value="151017"> Lorena Valle </option><option value="567651"> Marsia Van Wormer </option><option value="525821"> Duane Vander Klok </option><option value="603986"> Tammy Varghese </option><option value="140740"> Lee Varian </option><option value="584421"> Penny Varian </option><option value="604821"> Doug Vaughn </option><option value="550036"> Chad Veach </option><option value="573521"> Dr. Paul Vickers  </option><option value="526051"> Scott Volk </option><option value="598466"> Nick Vujicic </option><option value="555376"> Holly Wagner </option><option value="567666"> Terry Walker </option><option value="589021"> Rob Warfel </option><option value="588986"> Matt Washington	 </option><option value="588971"> Jade Washington </option><option value="589186"> Nathan Watkins </option><option value="604766"> Courtney Watkins </option><option value="559696"> James Watson </option><option value="602086"> Janna Weaver </option><option value="597061"> Jen Weaver </option><option value="596571"> Lyle Weber </option><option value="525926"> Stovall Weems </option><option value="526046"> Bob Weiner </option><option value="580596"> Kevin West </option><option value="151018"> Jamie Whisenhunt </option><option value="572106"> Todd White </option><option value="525741"> Clark Whitten </option><option value="67307"> Troy Wierman </option><option value="607131"> Dr. Joanna Wiesinger </option><option value="567961"> Bonnie Wilks </option><option value="544261"> Wayne Wilks Jr. </option><option value="233981"> Tra Willbanks </option><option value="597081"> Shelly Willbanks </option><option value="556976"> Tod Williams </option><option value="601961"> Brian Williams </option><option value="148172"> Dale Williams </option><option value="67209"> Bobby Williams </option><option value="140732"> Adana Wilson </option><option value="241346"> Stephen Wilson </option><option value="146624"> Matt Wilson </option><option value="67168"> Rebecca Wilson </option><option value="601986"> Amanda Wise </option><option value="553501"> Paul and Nancy Witt </option><option value="181086"> Kerry Wood </option><option value="398776"> Chiqui Wood </option><option value="67280"> Aaron Wronko </option><option value="550061"> Angie Wyatt </option><option value="565526"> Ravi Zacharias </option><option value="564711"> Lynda Zackary </option><option value="556981"> Ivethe Zambrano </option><option value="600876"> Coalo Zamorano </option><option value="600881"> Lorena Zamorano </option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-tid-wrapper" class="views-exposed-widget views-widget-filter-tid">
+                  <label for="edit-tid">
+            Other          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-tid">
+ <input type="text" id="edit-tid" name="tid" value="" size="60" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-tid-autocomplete" value="http://gatewaypeople.com/index.php?q=admin/views/ajax/autocomplete/taxonomy/1" disabled="disabled" class="autocomplete" />
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-class-list" name="" value="Apply" class="form-submit" />    </div>
+          <div class="views-exposed-widget views-reset-button">
+        <input type="submit" id="edit-reset" name="op" value="Reset" class="form-submit" />      </div>
+      </div>
+</div>
+</div></form>          </div>
+      </div>
+    
+    
+
+    <div class="results-wrap filter-active">
+              <div class="view-content">
+                <div class="card card--type-class card--tag-class">
+  <a class="card-wrapper" href="/ministries/married-life/classes/2016/09/26/anchor-of-hope">
+
+  <div class="card-preview">
+    <div class="card-thumbnail" style="background-image:url('http://cf.gatewaypeople.com/prod/s3fs-public/styles/card_thumbnail/public/images/marriagefamily_webcard.jpg?9_IjbfZAgK3ewgvdRFhsY6kQiTB5Gfh8&itok=wCj-ZpxM');"></div>
+              <div class="card-preview-hover">
+        Anchorof Hope is a class for couples seekinghealingin the aftermath of infidelity, whether recently discovered or from an unhealed past. This class is designed to offer hope and guidance to recovery. The class addresses emotional and physical infidelity, pornography, and sexual addiction. W...      </div>
+      </div><!-- /.card-preview -->
+
+  <div class="card-detail-section card-overlay">
+          <div class="card-header">
+        <span class="card-type-tag card--tag-class">
+          <span class="card-header-type">Class</span><span class="card-header-separator"><span class="card-separator">&nbsp;|&nbsp;</span></span><span class="card-header-department">Marriage & Family</span>        </span>
+      </div>
+        <div class="card-body">
+      <h4 class="card-title">Anchor of Hope</h4>
+              <div class="card-subtitle">
+          Marriage & Family        </div>
+                    <div class="card-key-info">
+          Monday, Jun 4 | 7:00 pm        </div>
+          </div><!-- /.card-body -->
+  </div><!-- /.card-detail-section -->
+
+  </a><!-- /.card-wrapper -->
+</div><!-- /.card -->
+          </div>
+          </div>
+  </div> <!-- end of wrappad -->
+
+  
+  
+  
+  
+  
+</div>  </div>
+
+      </div> <!-- /.wrapper -->
+
+  
+</div>
+  </div>
+              <div class="content-footer">
+                              </div>
+            </div>
+          
+          
+          
+          
+          
+        </div> <!-- /.content-inner -->
+      </div>
+    </div> <!-- /.content-wrapper -->
+  
+    
+    
+</section><!-- /#content -->
+
+
+<footer class="site-info">
+  <div class="wrapper">
+    <div class="footer-social">
+      <ul>
+        <li><a href="https://facebook.com/gatewaypeople" target="_blank"><i class="icon-facebook"></i></a></li>
+        <li><a href="https://twitter.com/gatewaypeople" target="_blank"><i class="icon-twitter"></i></a></li>
+        <li><a href="https://instagram.com/gatewaypeople" target="_blank"><i class="icon-instagram"></i></a></li>
+        <li><a href="https://www.youtube.com/user/gatewaychurchtv" target="_blank"><i class="icon-youtube"></i></a></li>
+      </ul>
+    </div>
+    <div class="footer-info">
+
+      <div class="church-tag">Milford Baptist Church | <span>we're all about people</span></div>
+      <div class="church-info">&copy; 2018 | 817.328.1000 | 500 S Nolen Dr, Southlake, TX 76092</div>
+    </div>
+
+    <div class="clearfix"></div>
+
+    
+    <div class="clearfix"></div>
+
+  </div><!-- /.wrapper -->
+
+</footer>
+<div class="footer-spacer"></div>
+<div id="scroll-top-top" style="display: none;"><a href="#top" data-target="0" class="scrollto"><i class="fa fa-chevron-up"></i></a></div>
+
+
+<script async src='https://tag.simpli.fi/sifitag/613b3ba0-054d-0136-44aa-067f653fa718'></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1494434-2', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+<script type='text/javascript'>
+  window.__lo_site_id = 76681;
+
+  (function() {
+  var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+  wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+  })();
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5XSN7F');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5XSN7F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//us2.siteimprove.com/js/siteanalyze_79783.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+  })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://gatewaypeople.com/sites/all/modules/custom/gwp_simple_menu/js/gwp_simple_menu.js?p7rj3q"></script>
+</body>
+</html>
